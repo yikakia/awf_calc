@@ -1,0 +1,357 @@
+[
+  {
+    "Name": "木材收集器",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 2,
+        "Count": "2"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "电动垃圾收集器",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 4,
+        "Count": "4"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "-4"
+      }
+    ]
+  },
+  {
+    "Name": "回收中心",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 4,
+        "Count": "-12"
+      },
+      {
+        "Type": 16,
+        "Count": "4"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "树木种植",
+    "UseTime": 28800000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 2,
+        "Count": "10"
+      },
+      {
+        "Type": 1,
+        "Count": "-14"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "木材压制机",
+    "UseTime": 10800000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 2,
+        "Count": "18"
+      },
+      {
+        "Type": 4,
+        "Count": "-9"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "-4"
+      }
+    ]
+  },
+  {
+    "Name": "电动金属熔炉",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 4,
+    "AddAble": [
+      {
+        "Type": 4,
+        "Count": "-12"
+      },
+      {
+        "Type": 16,
+        "Count": "14"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "-12"
+      }
+    ]
+  },
+  {
+    "Name": "金属熔炉",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 4,
+    "AddAble": [
+      {
+        "Type": 16,
+        "Count": "16"
+      },
+      {
+        "Type": 4,
+        "Count": "-16"
+      },
+      {
+        "Type": 32,
+        "Count": "-8"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "木材锅炉",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 2,
+        "Count": "-6"
+      },
+      {
+        "Type": 1,
+        "Count": "9"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "垃圾转水",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 4,
+        "Count": "-8"
+      },
+      {
+        "Type": 1,
+        "Count": "14"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "燃料转水",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 32,
+        "Count": "-5"
+      },
+      {
+        "Type": 1,
+        "Count": "20"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "电动海水淡化器",
+    "UseTime": 14400000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 1,
+        "Count": "14"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "-10"
+      }
+    ]
+  },
+  {
+    "Name": "钓鱼小屋",
+    "UseTime": 18000000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 8,
+        "Count": "1"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "温室",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 1,
+        "Count": "-12"
+      },
+      {
+        "Type": 8,
+        "Count": "12"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "蘑菇农场",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 1,
+        "Count": "-5"
+      },
+      {
+        "Type": 2,
+        "Count": "-5"
+      },
+      {
+        "Type": 8,
+        "Count": "10"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "电力温室",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 1,
+        "Count": "-10"
+      },
+      {
+        "Type": 8,
+        "Count": "14"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "-6"
+      }
+    ]
+  },
+  {
+    "Name": "仓鼠轮",
+    "UseTime": 86400000000000,
+    "MaxCitizenCount": 1,
+    "AddAble": null,
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "2"
+      }
+    ]
+  },
+  {
+    "Name": "木制风力涡轮",
+    "UseTime": 86400000000000,
+    "MaxCitizenCount": 1,
+    "AddAble": null,
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "3"
+      }
+    ]
+  },
+  {
+    "Name": "太阳能锅炉",
+    "UseTime": 28800000000000,
+    "MaxCitizenCount": 2,
+    "AddAble": [
+      {
+        "Type": 1,
+        "Count": "-4"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "8"
+      }
+    ]
+  },
+  {
+    "Name": "木材转燃料",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 2,
+        "Count": "-14"
+      },
+      {
+        "Type": 4,
+        "Count": "-10"
+      },
+      {
+        "Type": 32,
+        "Count": "8"
+      }
+    ],
+    "NotAddAble": null
+  },
+  {
+    "Name": "燃料转能量",
+    "UseTime": 28800000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 32,
+        "Count": "-7"
+      }
+    ],
+    "NotAddAble": [
+      {
+        "Type": 64,
+        "Count": "20"
+      }
+    ]
+  },
+  {
+    "Name": "食物转燃料",
+    "UseTime": 21600000000000,
+    "MaxCitizenCount": 3,
+    "AddAble": [
+      {
+        "Type": 8,
+        "Count": "-10"
+      },
+      {
+        "Type": 4,
+        "Count": "-10"
+      },
+      {
+        "Type": 32,
+        "Count": "12"
+      }
+    ],
+    "NotAddAble": null
+  }
+]

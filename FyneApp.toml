@@ -1,0 +1,8 @@
+Website = "https://www.yikakia.com"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "All Will Fall Caculator"
+  ID = "test.id"
+  Version = "0.0.1"
+  Build = 2

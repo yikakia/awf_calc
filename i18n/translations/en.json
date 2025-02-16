@@ -1,0 +1,47 @@
+{
+  "main.title": "All Will Fall Calculator",
+
+  "table.detail.building.name": "Building",
+  "table.detail.building.count.name": "BuildingCount",
+  "table.detail.citizen.type.name": "CitizenType",
+  "table.detail.citizen.count.name": "CitizenCount",
+
+  "citizen.worker.name": "Worker",
+  "citizen.sailor.name": "Sailor",
+  "citizen.engineer.name": "Engineer",
+
+  "resource.energy.name": "Energy",
+  "resource.water.name": "Water",
+  "resource.wood.name": "Wood",
+  "resource.junk.name": "Junk",
+  "resource.food.name": "Food",
+  "resource.metal.name": "Metal",
+  "resource.fuel.name": "Fuel",
+
+  "building.wood_Catcher.name":  "Wood Catcher",
+  "building.junk_ElectricCatcher.name": "Electric Junk Catcher",
+  "building.wood_Recycling.name": "Recycling Center",
+  "building.wood_Greenhouse.name": "Wood Plantation",
+  "building.wood_Presser.name": "Wood Presser",
+
+  "building.metal_Electric.name": "Electric Metal Smelters",
+  "building.metal_Fuel.name": "Metal Smelter",
+
+  "building.water_Wood.name": "Wood Boiler",
+  "building.water_Junk.name": "Junk to Water",
+  "building.water_Fuel.name":  "Fuel to Water",
+  "building.water_Electric.name": "Electric Desalinator",
+
+  "building.food_FishingHut.name": "Fishing Hut",
+  "building.food_Greenhouse.name":  "Green House",
+  "building.food_Mushrooms.name": "Mushroom Farm",
+  "building.food_GreenhouseElectric.name": "Electric Greenhouse",
+
+  "building.energy_HamsterWheel.name": "Hamster Wheel",
+  "building.energy_WoodenWindTurbine.name": "Wooden Wind Turbine",
+  "building.energy_SunBoiler.name": "Sun Energy Boiler",
+  "building.energy_Fuel.name":  "Fuel to Energy",
+
+  "building.fuel_Wood.name": "Wood to Fuel",
+  "building.fuel_Food.name": "Food to Fuel"
+}

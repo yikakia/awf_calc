@@ -1,0 +1,49 @@
+{
+  "main.title": "终落之城计算器",
+
+  "table.detail.building.name": "建筑",
+  "table.detail.building.count.name": "建筑个数",
+  "table.detail.citizen.type.name": "工人类别",
+  "table.detail.citizen.count.name": "工人总数",
+
+  "citizen.worker.name": "工人",
+  "citizen.sailor.name": "水手",
+  "citizen.engineer.name": "工程师",
+
+  "resource.energy.name": "电力",
+  "resource.water.name": "水",
+  "resource.wood.name": "木头",
+  "resource.junk.name": "垃圾",
+  "resource.food.name": "食物",
+  "resource.metal.name": "金属",
+  "resource.fuel.name": "燃料",
+
+  "building.wood_Catcher.name": "木材收集器",
+  "building.junk_ElectricCatcher.name": "电动垃圾收集器",
+  "building.wood_Recycling.name": "回收中心",
+  "building.wood_Greenhouse.name": "木材种植园",
+  "building.wood_Presser.name": "木材压制机",
+
+  "building.metal_Electric.name": "电动金属熔炉",
+  "building.metal_Fuel.name": "金属熔炉",
+
+  "building.water_Wood.name": "木材锅炉",
+  "building.water_Junk.name": "垃圾转水",
+  "building.water_Fuel.name": "燃料转水",
+  "building.water_Electric.name": "电动海水淡化器",
+
+  "building.food_FishingHut.name": "钓鱼小屋",
+  "building.food_Greenhouse.name": "温室",
+  "building.food_Mushrooms.name": "蘑菇农场",
+  "building.food_GreenhouseElectric.name": "电力温室",
+
+  "building.energy_HamsterWheel.name": "仓鼠转轮",
+  "building.energy_WoodenWindTurbine.name": "木制风力涡轮机",
+  "building.energy_SunBoiler.name": "太阳能锅炉",
+  "building.energy_Fuel.name": "燃料转能量",
+
+  "building.fuel_Wood.name": "木材转燃料",
+  "building.fuel_Food.name": "食物转燃料"
+
+
+}
