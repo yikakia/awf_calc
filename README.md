@@ -1,18 +1,18 @@
-# 终落之城计算器
+# All Will Fall Calculator
+[中文](README_CN.md)
 
-用于量化[终落之城](https://store.steampowered.com/app/2706020/ALL_WILL_FALL_PhysicsBased_Survival_City_Builder/)中的产出
+A tool for quantifying output in [All Will Fall]((https://store.steampowered.com/app/2706020/ALL_WILL_FALL_PhysicsBased_Survival_City_Builder/)).
 
-## 功能
-- [ ] 可选首领技能计算
-  - [ ] 工人
-  - [ ] 水手 (目前计算强制开启技能)
-  - [ ] 工程师 (目前计算强制开启技能)
-- [ ] 可选首领效率计算(5%)
-- [ ] 同建筑物分配多种居民
-- [ ] 建筑物属性配置化
-- [x] 翻译
-  - [x] 中文
+## Features
+- [ ]Optional leader skill calculation
+  - [ ] Workers
+  - [ ] Sailors (Skill calculation is currently mandatory)
+  - [ ] Engineers (Skill calculation is currently mandatory)
+- [ ] Optional leader efficiency calculation (5%)
+- [ ] Assign multiple resident types to the same building
+- [ ] Configurable building attributes
+- [x] Translation
+  - [x] Chinese
   - [x] English
-
-## 开发
-项目以 Golang 为开发语言，采用 [fyne.io](https://docs.fyne.io/) 作为GUI框架
+## Development
+The project is developed in Golang and uses [fyne.io](https://docs.fyne.io/) as the GUI framework.
