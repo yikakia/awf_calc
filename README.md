@@ -4,7 +4,7 @@
 A tool for quantifying output in [All Will Fall]((https://store.steampowered.com/app/2706020/ALL_WILL_FALL_PhysicsBased_Survival_City_Builder/)).
 
 ## Features
-- [ ]Optional leader skill calculation
+- [ ] Optional leader skill calculation
   - [ ] Workers
   - [ ] Sailors (Skill calculation is currently mandatory)
   - [ ] Engineers (Skill calculation is currently mandatory)
