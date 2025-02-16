@@ -1,7 +1,7 @@
 # All Will Fall Calculator
 [中文](README_CN.md)
 
-A tool for quantifying output in [All Will Fall]((https://store.steampowered.com/app/2706020/ALL_WILL_FALL_PhysicsBased_Survival_City_Builder/)).
+A tool for quantifying output in [All Will Fall](https://store.steampowered.com/app/2706020/ALL_WILL_FALL_PhysicsBased_Survival_City_Builder/).
 
 ## Features
 - [ ] Optional leader skill calculation
